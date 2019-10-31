@@ -1,6 +1,6 @@
 # api-1pass
 
-A description of this package.
+The server source code for https://github.com/liennh/ViPass---Password-Keeper
 
 Encryption Libs used in 1Pass App and Cloud:
 
